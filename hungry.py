@@ -1,5 +1,5 @@
 hungry= input("Are you hungry?: ")
-if hungry=="yes":
+if hungry=="yes" and hungry=="yo":
     print("eat samosas")
     print("eat burger")
     print("eat fries")
